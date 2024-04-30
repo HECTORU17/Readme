@@ -1,2 +1,2 @@
 # Readme
-This is my brand new on project on this platform
+This is my brand new project on this platform
